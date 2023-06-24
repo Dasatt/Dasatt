@@ -1,8 +1,10 @@
 Hi there 👋 I'm Oluyemisi Oladayo Akinboboye 
 
 
+
 I'm an instrumentation, control and automation engineering currently developing and expanding my skills in software manual and automation testing.
-I'm learning Test Automation at Testify Academy and looking for opportunities to collaborate part time on project that will help hone my testing skills
+I'm learning Test Automation at Testify Academy and looking for opportunities to collaborate part time on project that will help hone my testing skills.
+I'm a quick learner, able to adapt to changing environments quickly and I do pay keen attention to details. 
 
 <!--
 **Dasatt/Dasatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
